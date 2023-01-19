@@ -187,10 +187,11 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .feynman__title{
-  margin: 0 auto;
+  margin: 0;
   max-width: 648px;
   line-height: 1.15;
   font-size: 120px;
@@ -200,7 +201,7 @@
 }
 
 .feynman__subtitle{
-  margin: 70px auto 0;
+  margin-top: 70px;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -230,12 +231,10 @@
 
 .section-title_theme_dark{
   color: white;
-  position: relative;
 }
 
 .section-subtitle_theme_dark{
   color: white;
-  position: relative;
 }
 
 .table__cell_theme_dark {
@@ -247,12 +246,10 @@
 
 .table__heading_theme_dark{
   color: white;
-  position: relative;
 }
 
 .table__text_theme_dark{
   color: white;
-  position: relative;
 }
 
 .kaufman__triangle{
