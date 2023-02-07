@@ -7,5 +7,5 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-content: flex-start;
-  gap: 100px;
+  column-gap: 100px;
 }

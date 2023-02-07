@@ -3,5 +3,5 @@
   display: flex;
   flex-direction: row;
   gap: 48px;
-  position: relative;
+  align-items: flex-start;
 }
